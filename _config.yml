@@ -1,2 +1,18 @@
-theme: jekyll-theme-midnight
-encoding:utf-8
+title: Jekyll Vision Casper Theme
+email: sloanzhang2017@gmail.com
+description: only my simple vision of casper theme
+
+# Build settings
+permalink: :title
+paginate: 1
+paginate_path: "page:num"
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
