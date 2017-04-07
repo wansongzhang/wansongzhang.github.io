@@ -1,26 +1,23 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-11-25 19:30:27 -0800
-author: hugocarreira
-description: "post description"
+author:	sloanzhang
+comments:	true
+date:	2017-04-05 17:42:32+00:00
+layout:	post
+title:	"个人博客开通"
+description:	"博客开篇"
+categories: [Works,生活]
+tags: [开始生活,技术]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+最近明显发现专注力明显下降，不论是工作还是生活。每天自己受控时间越来越少，很不舒服的被动感觉。
+之前陆续尝试通过不同的效率或者时间管理工具来提升但均不明显。一些小的总结也比较零散和拖沓。一直希望能够正式找个地方记录日常工作的一些思考和总结。后面会尝试把GitHub好好用起来。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+工作和生活这两年变化都挺大，现在的想法会持续把这两块过程中碰到的一些想法和心得记录下来，工作和生活质量的提升，以及如何平衡好这两块的事情。
+工作
+	机器学习从入门到了解
+	新时代的软件架构与思考
+	技术团队的管理与尝试
+生活
+	让生活不在平淡
+	如何与小朋友一起成长
+	工作和生活的平衡
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

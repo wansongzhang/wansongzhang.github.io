@@ -1,6 +1,7 @@
-title: Jekyll Vision Casper Theme
+title: sloanzhang Blog
 email: sloanzhang2017@gmail.com
-description: only my simple vision of casper theme
+description: 另一种技术的生活方式
+
 
 # Build settings
 permalink: :title
@@ -15,4 +16,3 @@ gems:
   - jekyll-paginate
 exclude:
   - Gemfile
-  - Gemfile.lock
