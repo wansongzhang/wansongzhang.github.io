@@ -1,6 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-07T17:27:16+08:00</updated><id>http://localhost:4000/</id><title type="html">sloanzhang Blog</title><subtitle>另一种技术的生活方式</subtitle><author><name>sloanzhang</name></author><entry><title type="html">2017，个人博客开通</title><link href="http://localhost:4000/welcome-to-myblog" rel="alternate" type="text/html" title="2017，个人博客开通" /><published>2017-04-07T01:42:32+08:00</published><updated>2017-04-07T01:42:32+08:00</updated><id>http://localhost:4000/welcome-to-myblog</id><content type="html" xml:base="http://localhost:4000/welcome-to-myblog">&lt;p&gt;最近明显发现专注力明显下降，不论是工作还是生活。每天自己受控时间越来越少，很不舒服的被动感觉。之前陆续尝试通过不同的效率或者时间管理工具来提升但均不明显。一些小的总结也比较零散和拖沓。一直希望能够正式找个地方记录日常工作的一些思考和总结。后面会尝试把这里用起来。&lt;br /&gt;
-工作和生活这两年变化都挺大，现在的想法会持续把这两块过程中碰到的一些心得记录下来，工作和生活质量的提升，以及如何平衡好这两块的事情。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-07T17:55:15+08:00</updated><id>http://localhost:4000/</id><title type="html">sloanzhang Blog</title><subtitle>另一种技术的生活方式</subtitle><author><name>sloanzhang</name></author><entry><title type="html">面向模式的软件架构总结2</title><link href="http://localhost:4000/pattern-Oriented-software-architecture2" rel="alternate" type="text/html" title="面向模式的软件架构总结2" /><published>2017-04-07T01:42:32+08:00</published><updated>2017-04-07T01:42:32+08:00</updated><id>http://localhost:4000/pattern-Oriented-software-architecture2</id><content type="html" xml:base="http://localhost:4000/pattern-Oriented-software-architecture2">&lt;p&gt;架构模式&lt;/p&gt;</content><author><name>sloanzhang</name></author><category term="架构模式" /><category term="模式系统" /><summary type="html">架构模式</summary></entry><entry><title type="html">面向模式的软件架构总结1</title><link href="http://localhost:4000/pattern-Oriented-software-architecture1" rel="alternate" type="text/html" title="面向模式的软件架构总结1" /><published>2017-04-07T01:42:32+08:00</published><updated>2017-04-07T01:42:32+08:00</updated><id>http://localhost:4000/pattern-Oriented-software-architecture1</id><content type="html" xml:base="http://localhost:4000/pattern-Oriented-software-architecture1">&lt;p&gt;最近和团队同学一起在阅读 &lt;strong&gt;&lt;em&gt;面向模式的软件架构&lt;/em&gt;&lt;/strong&gt;系列书箱，会将其中的阅读笔记和心得总结记录在这里。&lt;/p&gt;
 
+&lt;p&gt;每个领域在通过多轮的摸索践行后，逐步会总结出规律和方法论，最终会形成各种层的模式来指导后续的问题解决。&lt;br /&gt;
+因此，&lt;strong&gt;模式&lt;/strong&gt;可以理解成，是以之前解决过的一个类似问题的解决方案的精髓来解决新的问题。&lt;br /&gt;
+它们一般抽象成三个维度来描述：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;背景&lt;br /&gt;
+  问题出现的背景&lt;/li&gt;
+  &lt;li&gt;问题&lt;br /&gt;
+  该背景下反复出现的问题&lt;/li&gt;
+  &lt;li&gt;解决方案&lt;br /&gt;
+  经过实践检验的有效解决之道。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;模式又能按照作用在不同的层级分为三种类型&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;架构模式&lt;br /&gt;
+  软件架构的模板，描绘了应用程序系统级的结构特征，影响其下子系统的架构细节&lt;br /&gt;
+  –如 MVC模式–&lt;/li&gt;
+  &lt;li&gt;设计模式&lt;br /&gt;
+  独立于编程语言和编程范式的中型模式，描述复杂服务和组件间分解&amp;amp;协助的方式&lt;br /&gt;
+  –如Observer模式–&lt;/li&gt;
+  &lt;li&gt;成例 
+  针对特定语言描述的编程经验或者方法，属于最低层次的模式。&lt;br /&gt;
+  –如C++ 的引用计数模式等–&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sloanzhang</name></author><category term="软件结构" /><category term="模式系统" /><summary type="html">最近和团队同学一起在阅读 面向模式的软件架构系列书箱，会将其中的阅读笔记和心得总结记录在这里。</summary></entry><entry><title type="html">2017，个人博客开通</title><link href="http://localhost:4000/welcome-to-myblog" rel="alternate" type="text/html" title="2017，个人博客开通" /><published>2017-04-07T01:42:32+08:00</published><updated>2017-04-07T01:42:32+08:00</updated><id>http://localhost:4000/welcome-to-myblog</id><content type="html" xml:base="http://localhost:4000/welcome-to-myblog">&lt;p&gt;最近明显发现专注力明显下降，不论是工作还是生活。每天自己受控时间越来越少，很不舒服的被动感觉。之前陆续尝试通过不同的效率或者时间管理工具来提升但均不明显。一些小的总结也比较零散和拖沓。一直希望能够正式找个地方记录日常工作的一些思考和总结。后面会尝试把这里用起来。&lt;br /&gt;
+工作和生活这两年变化都挺大，现在的想法会持续把这两块过程中碰到的一些心得记录下来，工作和生活质量的提升，以及如何平衡好这两块的事情。
+先从以下几个开始动手吧。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;br /&gt;
 1.机器学习从入门到了解&lt;br /&gt;
@@ -10,4 +35,4 @@
 &lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;br /&gt;
 1.让生活不在平淡&lt;br /&gt;
 2.如何与小朋友一起成长&lt;br /&gt;
-3.工作和生活的平衡&lt;/p&gt;</content><author><name>sloanzhang</name></author><category term="开始生活" /><category term="技术" /><summary type="html">最近明显发现专注力明显下降，不论是工作还是生活。每天自己受控时间越来越少，很不舒服的被动感觉。之前陆续尝试通过不同的效率或者时间管理工具来提升但均不明显。一些小的总结也比较零散和拖沓。一直希望能够正式找个地方记录日常工作的一些思考和总结。后面会尝试把这里用起来。 工作和生活这两年变化都挺大，现在的想法会持续把这两块过程中碰到的一些心得记录下来，工作和生活质量的提升，以及如何平衡好这两块的事情。</summary></entry></feed>
+3.工作和生活的平衡&lt;/p&gt;</content><author><name>sloanzhang</name></author><category term="生活" /><category term="技术" /><summary type="html">最近明显发现专注力明显下降，不论是工作还是生活。每天自己受控时间越来越少，很不舒服的被动感觉。之前陆续尝试通过不同的效率或者时间管理工具来提升但均不明显。一些小的总结也比较零散和拖沓。一直希望能够正式找个地方记录日常工作的一些思考和总结。后面会尝试把这里用起来。 工作和生活这两年变化都挺大，现在的想法会持续把这两块过程中碰到的一些心得记录下来，工作和生活质量的提升，以及如何平衡好这两块的事情。 先从以下几个开始动手吧。 工作 1.机器学习从入门到了解 2.新时代的软件架构与思考 3.技术团队的管理与尝试</summary></entry></feed>
