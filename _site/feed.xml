@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-06T18:56:34+08:00</updated><id>http://localhost:4000/</id><title type="html">sloanzhang Blog</title><subtitle>另一种技术的生活方式</subtitle><entry><title type="html">个人博客开通</title><link href="http://localhost:4000/welcome-to-jekyll0" rel="alternate" type="text/html" title="个人博客开通" /><published>2017-04-06T01:42:32+08:00</published><updated>2017-04-06T01:42:32+08:00</updated><id>http://localhost:4000/welcome-to-jekyll0</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll0">&lt;p&gt;第一次写博客了&lt;/p&gt;</content><author><name>sloanzhang</name></author><category term="开始生活" /><category term="技术" /><summary type="html">第一次写博客了</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-07T17:27:16+08:00</updated><id>http://localhost:4000/</id><title type="html">sloanzhang Blog</title><subtitle>另一种技术的生活方式</subtitle><author><name>sloanzhang</name></author><entry><title type="html">2017，个人博客开通</title><link href="http://localhost:4000/welcome-to-myblog" rel="alternate" type="text/html" title="2017，个人博客开通" /><published>2017-04-07T01:42:32+08:00</published><updated>2017-04-07T01:42:32+08:00</updated><id>http://localhost:4000/welcome-to-myblog</id><content type="html" xml:base="http://localhost:4000/welcome-to-myblog">&lt;p&gt;最近明显发现专注力明显下降，不论是工作还是生活。每天自己受控时间越来越少，很不舒服的被动感觉。之前陆续尝试通过不同的效率或者时间管理工具来提升但均不明显。一些小的总结也比较零散和拖沓。一直希望能够正式找个地方记录日常工作的一些思考和总结。后面会尝试把这里用起来。&lt;br /&gt;
+工作和生活这两年变化都挺大，现在的想法会持续把这两块过程中碰到的一些心得记录下来，工作和生活质量的提升，以及如何平衡好这两块的事情。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;br /&gt;
+1.机器学习从入门到了解&lt;br /&gt;
+2.新时代的软件架构与思考&lt;br /&gt;
+3.技术团队的管理与尝试&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;生活&lt;/strong&gt;&lt;br /&gt;
+1.让生活不在平淡&lt;br /&gt;
+2.如何与小朋友一起成长&lt;br /&gt;
+3.工作和生活的平衡&lt;/p&gt;</content><author><name>sloanzhang</name></author><category term="开始生活" /><category term="技术" /><summary type="html">最近明显发现专注力明显下降，不论是工作还是生活。每天自己受控时间越来越少，很不舒服的被动感觉。之前陆续尝试通过不同的效率或者时间管理工具来提升但均不明显。一些小的总结也比较零散和拖沓。一直希望能够正式找个地方记录日常工作的一些思考和总结。后面会尝试把这里用起来。 工作和生活这两年变化都挺大，现在的想法会持续把这两块过程中碰到的一些心得记录下来，工作和生活质量的提升，以及如何平衡好这两块的事情。</summary></entry></feed>

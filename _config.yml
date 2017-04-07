@@ -1,8 +1,10 @@
 title: sloanzhang Blog
 email: sloanzhang2017@gmail.com
 description: 另一种技术的生活方式
-
-
+author: 
+  name: sloanzhang
+  picture: assets/images/sloanzhang.png
+  description: 最近注意力不够集中的程序员
 # Build settings
 permalink: :title
 paginate: 1
